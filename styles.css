@@ -1,0 +1,131 @@
+body {
+    color: rgb(43, 41, 38);
+    margin: 0;
+    position: relative;
+    text-align: center;
+}
+h1 {
+    margin-top: 0;
+    font-size: 100px;
+}
+h2 {
+    color:rgb(106, 211, 197);
+}
+.first-part{
+    background-color: #E1FFEE;
+    height: 600px;
+
+}
+.Title {
+    font-family: 'Lobster Two', cursive;
+    font-size: 80px;
+    color:rgb(106, 211, 197);
+    line-height: 2;
+    padding-top: 100px;
+}
+#bird1 {
+    position: absolute;
+    right: 400px;
+    top:250px;
+}
+#bird2 {
+    margin: auto;
+    position: absolute;
+    left: 400px;
+    top:250px;
+}
+p {
+    line-height: 2;
+}
+hr {
+    border-style: dotted ;
+    border-color: grey;
+    border-bottom: none;
+    width: 10%;
+    border-width: 2px;
+}
+.my-profile {
+    padding-top: 30px;
+    width: 10%;
+}
+.profile {
+    padding-bottom: 30px;
+
+}
+.intro {
+    width: 25%;
+    margin: auto;
+}
+.second-part {
+    padding: auto;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+h3 {
+    color:#42cde8 ;
+}
+.skills {
+    padding-top: 30px;
+}
+.skill1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill2 {
+    background-color: white;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.contact-me {
+    width: 40%;
+    margin: 50px auto 50px ;
+
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Courier New;
+    color: #f5f5f5;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .third-part {
+    background-color: rgb(106, 211, 197) ;
+    padding: 50px 0 20px;
+  }
+  a {
+    color: rgb(20, 107, 78);
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  a:hover {
+    color: white;
+  }
+  .copyright {
+    color:azure;
+    font-size: 0.75rem;
+  }
